@@ -1,0 +1,5 @@
+{
+	"require": {
+		"horntell/php-sdk": "0.3.*"
+	}
+}
