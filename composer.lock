@@ -127,16 +127,16 @@
         },
         {
             "name": "horntell/php-sdk",
-            "version": "0.3.0",
+            "version": "0.3.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/horntell/php-sdk.git",
-                "reference": "4973c0f80220990e8d7dc4f41e9fe53c36aeb739"
+                "reference": "5daaed54ed51bf2acdf90262290a2ae55b9b1a53"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/horntell/php-sdk/zipball/4973c0f80220990e8d7dc4f41e9fe53c36aeb739",
-                "reference": "4973c0f80220990e8d7dc4f41e9fe53c36aeb739",
+                "url": "https://api.github.com/repos/horntell/php-sdk/zipball/5daaed54ed51bf2acdf90262290a2ae55b9b1a53",
+                "reference": "5daaed54ed51bf2acdf90262290a2ae55b9b1a53",
                 "shasum": ""
             },
             "require": {
@@ -160,7 +160,7 @@
                 }
             ],
             "description": "Horntell SDK for PHP",
-            "time": "2016-04-19 13:46:37"
+            "time": "2016-04-20 08:23:16"
         }
     ],
     "packages-dev": [],
